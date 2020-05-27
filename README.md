@@ -1,1 +1,1 @@
-# secret-message
+# Secret Message sharing app
